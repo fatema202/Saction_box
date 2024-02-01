@@ -1,0 +1,254 @@
+body{
+   background:rgb(2, 2, 2);
+}
+.boxlong{
+    height:60px;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    line-height:50px ; 
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+}
+
+
+.box{
+    height: 200px;
+    width: 25%;
+    background-color: rgb(245, 18, 6);
+    font-size: 30px;
+    text-align: center;
+    line-height:200px ;
+    color: aliceblue;
+}
+.mainbox{
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+.box3{
+ 
+    width:50% ;
+  
+}
+.boxmiddle{
+    margin-top:15px ;
+    height:60px;
+    width: 100%;
+    background-color: rgb(251, 251, 251);
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height:50px ;
+  
+}
+.boxx1{
+    height: 300px;
+    width: 50%;
+    background-color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    line-height:300px ;
+    color: azure;
+}
+.mainboxx{
+    display: flex;
+    gap : 15px;
+    margin-top: 15px;
+}
+.boxx3{
+    height: 350px;
+    width:50%;
+    font-size: 30px;
+    text-align: center;
+    color: azure;
+    background-color:palevioletred;
+    line-height:350px ;
+}
+
+.boxx1_1{
+    height:calc(175px - 7.5px) ;
+    width: 100%;
+    background-color: palevioletred;
+    margin-bottom: 15px;
+    line-height:175px ;
+   
+}
+.boxx1_2{
+    height:calc(175px - 7.5px) ;
+    width: 100%;
+    background-color: palevioletred;
+    line-height:175px ;
+}
+.boxsemimiddel{
+    height:60px;
+    width: 100%;
+    background-color: white;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height:50px ;
+    margin-top:15px ;
+    
+}
+.boox1{
+    height: 400px;
+    width: 90%;
+    background-color:rgb(4, 4, 4);
+    font-size: 30px;
+    text-align: center;
+    line-height:300px ;
+    color: azure;
+}
+.mainboox{
+    display: flex;
+    gap : 15px;
+    margin-top: 10px;
+}
+.boox5{
+    height: 400px;
+    width: 20%;
+    background-color:yellow;
+    font-size: 30px;
+    text-align: center;
+    line-height:400px ;
+    color: rgb(0, 8, 8);
+}
+.boox1_1{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    text-align: center;
+    line-height:200px ;
+    color: rgb(8, 8, 8);
+}
+.boox1_11{
+   height: calc(200px - 7.5px);
+   width: 30%;
+   background:yellow ;
+}
+.boox1_12{
+    height: calc(200px - 7.5px);
+    width: 70%;
+    background:yellow ;
+ }
+
+ .boox2_1{
+    display: flex;
+    gap: 15px;
+    font-size: 30px;
+    text-align: center;
+    line-height:200px ;
+    color: rgb(0, 0, 0);
+   
+}
+.boox2_21{
+   height: calc(200px - 7.5px);
+   width:70% ;
+   background:yellow ;
+}
+.boox2_22{
+    height: calc(200px - 7.5px);
+    width: 30%;
+    background:yellow;
+ }
+ .boxshort{
+    height:60px;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height:50px ;
+    margin-top:10px ;
+    
+ }
+ 
+.boxtop{
+    height:60px;
+    width: 100%;
+    background-color:darkviolet;
+    margin-top:10px ;
+    
+}
+.Box_3{
+    display: flex;
+  
+}
+.MainBoox{
+    display: flex;
+    gap : 15px;
+    margin-top: 10px;
+}
+.Box_31{
+    height: 400px;
+    width: 20%;
+    background-color:darkviolet;
+    font-size: 30px;
+    text-align: center;
+    line-height:400px ;
+    color: rgb(0, 8, 8);
+    margin-top: 15px;
+}
+.Box_32{
+    height: 400px;
+    width: 80%;
+    background-color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    line-height:400px ;
+    color: rgb(0, 8, 8);
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.Box_321{
+    height: calc(70px - 7.5px);
+    width: 100%;
+    background-color:darkviolet;
+    margin-bottom: 15px;
+}
+.Box_322{
+    height: calc(253px - 7.5px);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 15px;
+    display: flex;
+}
+.Box_323{
+    height: calc(70px - 7.5px);
+    width: 100%;
+    background-color:darkviolet;
+   
+}
+.Box_3220{
+    height:245px;
+    width: 33.3%;
+    background-color:darkviolet;
+    margin-right: 15px;
+    font-size: 30px;
+    text-align: center;
+    line-height:245px ;
+    color: rgb(0, 8, 8);
+}
+.Box_3229{
+    height:245px;
+    width: 33.3%;
+    background-color:darkviolet;
+    margin-right: 15px;
+    font-size: 30px;
+    text-align: center;
+    line-height:245px ;
+    color: rgb(0, 8, 8);
+}
+.Box_3228{
+    height:245px;
+    width: 33.3%;
+    background-color:darkviolet;
+    font-size: 30px;
+    text-align: center;
+    line-height:245px ;
+    color: rgb(0, 8, 8);
+}
+
+
